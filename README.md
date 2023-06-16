@@ -1,6 +1,6 @@
 # Calculator App - README
 
-![Design preview for the Calculator app coding challenge](./design/desktop-preview.jpg)
+<img src="https://res.cloudinary.com/dz209s6jk/image/upload/v1652199545/Challenges/xye51b9no1nkpuonov8r.jpg">
 
 This is a README file for the "Calculator App" project from Frontend Mentor. The project involves creating a responsive calculator application using HTML, CSS, JavaScript, React, and JSX.
 
